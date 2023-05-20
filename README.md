@@ -1,2 +1,2 @@
-# FE39-HW-3
-Homework 2
+# Coinbase html practice
+https://abirvalgo.github.io/Coinbase/
